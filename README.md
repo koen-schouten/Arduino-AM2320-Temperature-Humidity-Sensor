@@ -1,7 +1,7 @@
 # Arduino-AM2320-Temperature-Humidity-Sensor
 
 Program to read temperature and humidity data from a AM2320 sensor using an Arduino UNO. 
-Program uses the Adafruit_Sensor and Adafruit_AM2320 libraries (Imported using platform IO). 
+Program uses the Adafruit_Sensor and Adafruit_AM2320 libraries (Imported using platformIO in Visual studio). 
 
 AM2320 Pin 1 should be connected to 5V.
 
